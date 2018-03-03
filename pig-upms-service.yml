@@ -8,8 +8,8 @@ redis:
 # datasoure默认使用JDBC
 spring:
   rabbitmq:
-    host: 106.14.69.75
-    port: 5682
+    host: 192.168.0.111
+    port: 5672
     username: pig
     password: lengleng
   zipkin:
